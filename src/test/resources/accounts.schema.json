@@ -4,7 +4,7 @@
   "default": [],
   "items": {
     "type": "object",
-    "additionalProperties": false,
+    "additionalProperties": true,
     "required": [
       "id",
       "name",
