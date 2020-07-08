@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ludxt08is3xupeqv?svg=true)](https://ci.appveyor.com/project/PolyakovAlexQA/apicisatting)
